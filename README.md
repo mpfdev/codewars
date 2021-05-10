@@ -4,7 +4,7 @@ A repository filled with codewars katas. Currently doing and re-doing to studyin
 
 **Link to project:** https://www.codewars.com/users/mpfdev
 
-![mpfdev](https://i.imgur.com/a7bh0ZH.png)
+![mpfdev](https://i.imgur.com/4KbrDUq.png)
 
 ## How It's Made:
 
